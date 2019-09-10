@@ -1,6 +1,6 @@
 /*
 * This exercise explores the functions of arraylist
-* such as .add(), .remove(), .size(), and .get()
+* such as .add(), .remove(), .size(), .get(), .clear() and .contains()
 *
 * Familiarize yourself with what goes inside the paranthesis.
 * Is it index number? a value at the said index number?
